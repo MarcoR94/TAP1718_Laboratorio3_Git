@@ -1,6 +1,6 @@
 ﻿namespace TAP1718_Laboratorio3_Git
 {
-    public interface Interface1
+    public class Pippo
     {
         
     }
